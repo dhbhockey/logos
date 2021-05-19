@@ -3,9 +3,9 @@
 
 A collection of svg logos:
 
-- [Association Logos](./src/associations/README.md)
-- [Club Logos](./src/clubs/README.md)
-- [National Team Logos](./src/national-teams/README.md)
+- Association Logos
+- Club Logos
+- National Team Logos
 
 
 ## Roadmap
