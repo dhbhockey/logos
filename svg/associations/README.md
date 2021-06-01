@@ -20,7 +20,7 @@
 |:-:|---|---|
 | HBW | Baden-Württemberger HV | |
 | BAY | Bayrischer HV | |
-| BHV | Berliner HV | |
+| BHV | Berliner HV | <img src="/svg/associations/ber.svg" height="25px" /> |
 | BRE | Bremer HV | |
 | HHV | Hamburger HV | |
 | HES | Hessischer HV | <img src="/svg/associations/hes.svg" height="25px" /> |
