@@ -23,7 +23,7 @@
 | BHV | Berliner HV | <img src="/svg/associations/ber.svg" height="25px" /> | |
 | BRE | Bremer HV | | |
 | HHV | Hamburger HV | | |
-| HES | Hessischer HV | <img src="/svg/associations/hes.svg" height="25px" /> | |
+| HES | Hessischer HV | <img src="/svg/associations/hes.svg" height="25px" /> | | |
 | MVP | Mecklenburgischer HV | | |
 | NVP | Niedersächsischer HV | | |
 | RPS | HV Rheinland-Pfalz/Saar | | |
