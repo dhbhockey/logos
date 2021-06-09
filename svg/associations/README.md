@@ -16,19 +16,19 @@
 | MHSB | Mitteldeutscher Hockey Spielbetrieb | |
 
 ## County Associations
-| ID | Name | Logo |
-|:-:|---|---|
-| HBW | Baden-Württemberger HV | |
-| BAY | Bayrischer HV | |
-| BHV | Berliner HV | <img src="/svg/associations/ber.svg" height="25px" /> |
-| BRE | Bremer HV | |
-| HHV | Hamburger HV | |
-| HES | Hessischer HV | <img src="/svg/associations/hes.svg" height="25px" /> |
-| MVP | Mecklenburgischer HV | |
-| NVP | Niedersächsischer HV | |
-| RPS | HV Rheinland-Pfalz/Saar | |
-| SAC | Sächsischer HV | |
-| SAA | HV Sachsen-Anhalt | |
-| SHO | Schleswig-Holsteiner HV | |
-| THV | Thüringer HSV | |
-| WHV | Westdeutscher HV | <img src="/svg/associations/whv.svg" height="25px" /> |
+| ID | Name | Logo | Alternative |
+|:-:|---|---| |
+| HBW | Baden-Württemberger HV | | |
+| BAY | Bayrischer HV | <img src="/svg/associations/bay_r.svg" height="25px" /> | <img src="/svg/associations/bay.svg" height="25px" /> |
+| BHV | Berliner HV | <img src="/svg/associations/ber.svg" height="25px" /> | |
+| BRE | Bremer HV | | |
+| HHV | Hamburger HV | | |
+| HES | Hessischer HV | <img src="/svg/associations/hes.svg" height="25px" /> | |
+| MVP | Mecklenburgischer HV | | |
+| NVP | Niedersächsischer HV | | |
+| RPS | HV Rheinland-Pfalz/Saar | | |
+| SAC | Sächsischer HV | | |
+| SAA | HV Sachsen-Anhalt | | |
+| SHH | Schleswig-Holsteiner HV | <img src="/svg/associations/shh.svg" height="25px" /> | |
+| THV | Thüringer HSV | | |
+| WHV | Westdeutscher HV | <img src="/svg/associations/whv.svg" height="25px" /> | |
