@@ -25,7 +25,7 @@
 | HHV | Hamburger HV | | |
 | HES | Hessischer HV | <img src="/svg/associations/hes.svg" height="25px" /> | | |
 | MVP | Mecklenburgischer HV | | |
-| NVP | Niedersächsischer HV | | |
+| NHV | Niedersächsischer HV | <img src="/svg/associations/nhv.svg" height="25px" /> | | |
 | RPS | HV Rheinland-Pfalz/Saar | | |
 | SAC | Sächsischer HV | <img src="/svg/associations/sac.svg" height="25px" /> | |
 | SAA | HV Sachsen-Anhalt | | |
