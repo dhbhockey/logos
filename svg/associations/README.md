@@ -4,7 +4,7 @@
 ## National Associations
 | ID | Name | Logo | Alternative |
 |:-:|---|---|---|
-| DHB | Deutscher Hockey-Bund | <img src="/svg/associations/dhb.svg" height="25px" /> | |
+| DHB | Deutscher Hockey-Bund | <img src="/svg/associations/dhb.svg" height="25px" /> | <img src="/svg/associations/dhb_alt.svg" height="25px" /> |
 | DHBR | Deutscher Hockey-Bund retro | <img src="/svg/associations/dhb_retro.svg" height="25px" /> | |
 | TeamD | DOSB Team D | <img src="/svg/associations/teamd.svg" height="25px" /> | <img src="/svg/associations/teamd_mono.svg" height="25px" /> |
 
