@@ -1,4 +1,5 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Lion">
         <path d="M95.054,80.131 C95.68,105.588 99.518,262.773 99.518,262.8 C99.518,307.905 114.956,348.53 142.988,377.184 C170.323,405.123 208.158,420.502 249.523,420.502 C290.877,420.502 328.717,405.123 356.052,377.184 C384.084,348.531 399.517,307.906 399.517,262.767 C399.517,262.767 403.62,95.688 404.014,80.077 C408.484,78.976 90.471,79.1 95.054,80.131 Z" id="path2936" fill="#231F20"></path>
