@@ -1,6 +1,12 @@
 
 # All Association Logos
 
+## International Associations
+| ID | Name | Logo | Alternative | White |
+|:-:|---|---|---|---|
+| FIH | International Hockey Federation | <img src="/svg/associations/fih.svg" height="25px" /> | | |
+| EHF | European Hockey Federation | <img src="/svg/associations/ehf.svg" height="25px" /> | | |
+
 ## National Associations
 | ID | Name | Logo | Alternative | White |
 |:-:|---|---|---|---|
