@@ -1,4 +1,3 @@
-
 # Club Logos - Hessen
 
 | ID | Name | Logo |
