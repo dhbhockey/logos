@@ -28,5 +28,5 @@
 | SGKR | Ski Rotenburg | |
 | RRK | Rüsselsheimer RK | |
 | DHC | DHC Wiesbaden | |
-| WTHC | Wiesbadener THC | |
+| WTHC | Wiesbadener THC | <img src="/svg/clubs/hes/476_wthc.svg" height="25px" /> |
 | RSC | RSC Wiesbaden | |
