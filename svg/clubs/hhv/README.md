@@ -10,7 +10,7 @@
 | 258 | TG Heimfeld | | | |
 | 259 | Marienthaler THC | | | |
 | 260 | Rahlstedter HTC | | | |
-| 263 | Harvestehuder THC | <img src="/svg/clubs/hhv/263_hthc.svg" height="25px" /> | | |
+| 263 | Harvestehuder THC | <img src="/svg/clubs/hhv/263_hthc.svg" height="25px" /> | | <img src="/svg/clubs/hhv/263_hthc_black.svg" height="25px" /> |
 | 264 | THC Horn-Hamm | | | |
 | 265 | SC Alstertal-Langenhorn | | | |
 | 266 | UHC Hamburg | <img src="/svg/clubs/hhv/266_uhc.svg" height="25px" /> | <img src="/svg/clubs/hhv/266_uhc_grayscale.svg" height="25px" /> | <img src="/svg/clubs/hhv/266_uhc_black.svg" height="25px" /> |
