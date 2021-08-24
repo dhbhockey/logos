@@ -35,7 +35,7 @@
 | 204 | Düsseldorfer HC | <img src="/svg/clubs/whv/204_dhc.svg" height="25px" /> |
 | 205 | Düsseldorfer SC | <img src="/svg/clubs/whv/205_dsc99.svg" height="25px" /> |
 | 239 | HC Eintracht Geldern | |
-| 333 | Crefelder HTC | |
+| 333 | Crefelder HTC | <img src="/svg/clubs/whv/333_chtc.svg" height="25px" /> |
 | 334 | Crefelder SV | |
 | 365 | SV Büderich | |
 | 368 | Mettmanner THC | |
