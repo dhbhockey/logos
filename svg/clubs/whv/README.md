@@ -51,6 +51,28 @@
 | 501 | Hellerhofer SV | |
 | 571 | WMTV Solingen | |
 
+## Club Logos - WHV Ruhr
+| ID | Name | Logo |
+|:-:|---|---|
+| 190 | TV Jahn Hiesfeld | |
+| 196 | Club Raffelberg | <img src="/svg/clubs/whv/196_cr.svg" height="25px" /> |
+| 198 | Preußen Duisburg | |
+| 199 | MSV Duisburg | |
+| 217 | ETB Essen | <img src="/svg/clubs/whv/217_etb.svg" height="25px" /> |
+| 218 | ETUF Essen | <img src="/svg/clubs/whv/218_etuf.svg" height="25px" /> |
+| 219 | HTC Kupferdreh | |
+| 220 | HC Essen 99 | |
+| 369 | Moerser TV | |
+| 374 | Uhlenhorst Mülheim | |
+| 375 | Kahlenberger HTC | |
+| 399 | Oberhausener THC | |
+| 420 | TuS Rheinberg | |
+| 466 | HC Rot-Weiß Velbert | |
+| 500 | Duisburger CC | |
+| 527 | Bochumer HV 05 | |
+| 575 | ARZD Impuls | |
+
+
 ## Club Logos - WHV Westfalen
 | ID | Name | Logo |
 |:-:|---|---|
