@@ -64,7 +64,7 @@
 | 220 | HC Essen 99 | |
 | 369 | Moerser TV | |
 | 374 | Uhlenhorst Mülheim | <img src="/svg/clubs/whv/374_htcu.svg" height="25px" /> |
-| 375 | Kahlenberger HTC | |
+| 375 | Kahlenberger HTC | <img src="/svg/clubs/whv/375_khtc.svg" height="25px" /> |
 | 399 | Oberhausener THC | |
 | 420 | TuS Rheinberg | |
 | 466 | HC Rot-Weiß Velbert | |
