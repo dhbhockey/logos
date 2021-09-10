@@ -8,9 +8,9 @@
 | 149 | Staffel A | Berliner HC | <img src="ber/149_bhc.svg" width="25px"> | | |
 | 278 | Staffel A | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="25px"> | | |
 | 256 | Staffel A | Club an der Alster | <img src="hhv/256_dcada.svg" width="25px"> | | |
-| 357 | Staffel A | TSV Mannheim | <img src="hbw/357_tsvm.svg" width="25px"> | | |
+| 357 | Staffel A | TSV Mannheim | <img src="hbw/357_tsvmh.svg" width="25px"> | | |
 | 225 | Staffel A | SC 1880 Frankfurt | <img src="hes/225_sc80.svg" width="25px"> | | |
-| 374 | Staffel B | Uhlenhorst Mühlheim | <img src="whv/374_uhm.svg" width="25px"> | | |
+| 374 | Staffel B | Uhlenhorst Mühlheim | <img src="whv/374_htcu.svg" width="25px"> | | |
 | 358 | Staffel B | Mannheimer HC | <img src="hbw/358_mhc.svg" width="25px">| | |
 | 266 | Staffel B | UHC Hamburg | <img src="hhv/266_uhc.svg" width="25px"> | | |
 | 263 | Staffel B | Harvestehuder THC | <img src="hhv/263_hthc.svg" width="25px"> | | |

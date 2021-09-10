@@ -3,7 +3,7 @@
 ## Club Logos - WHV Rhein
 | ID | Name | Logo |
 |:-:|---|---|
-| 101 | Aachener HC | |
+| 101 | Aachener HC | <img src="/svg/clubs/whv/101_ahc.svg" height="25px" /> |
 | 102 | Eilendorfer HC | |
 | 113 | HC Bad Honnef | |
 | 117 | HTC Bad Neuenahr | |
@@ -63,7 +63,7 @@
 | 219 | HTC Kupferdreh | |
 | 220 | HC Essen 99 | |
 | 369 | Moerser TV | |
-| 374 | Uhlenhorst Mülheim | |
+| 374 | Uhlenhorst Mülheim | <img src="/svg/clubs/whv/374_htcu.svg" height="25px" /> |
 | 375 | Kahlenberger HTC | |
 | 399 | Oberhausener THC | |
 | 420 | TuS Rheinberg | |
