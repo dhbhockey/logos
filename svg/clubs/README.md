@@ -39,10 +39,10 @@
 |:-:|---|---|---|---|---|
 | 276 | Nord | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
 | 333 | Nord | Crefelder HTC | <img src="whv/333_chtc.svg" width="50px"> | | |
-| 327 | Nord | Blau-Weiß Köln | <img src="whv/327_bwk.svg" width="50px"> | | |
+| 327 | Nord | Blau-Weiß Köln | <img src="whv/327_kthc.svg" width="50px"> | | |
 | 391 | Nord | Schwarz-Weiß Neuss | <img src="whv/391_swn.svg" width="50px"> | | |
 | 371 | Nord | Gladbacher HTC | <img src="whv/371_ghtc.svg" width="50px"> | | |
-| 203 | Nord | DSD Düsseldorf | <img src="whv/203_dsdd.svg" width="50px"> | | |
+| 203 | Nord | DSD Düsseldorf | <img src="whv/203_dsd.svg" width="50px"> | | |
 | 325 | Nord | Schwarz-Weiß Köln | <img src="whv/325_swk.svg" width="50px"> | | |
 | 328 | Nord | Marienburger SC | <img src="whv/328_msc.svg" width="50px"> | | |
 | 267 | Nord | Klipper THC Hamburg | <img src="hhv/267_klipper.svg" width="50px"> | | |
@@ -68,10 +68,10 @@
 | 162 | Nord | Bonner THV | <img src="whv/162_bthv.svg" width="50px"> | | |
 | 278 | Nord | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="50px"> | | |
 | 258 | Nord | TG Heimfeld | <img src="hhv/258_tgh.svg" width="50px"> | | |
-| 327 | Nord | Blau-Weiß Köln | <img src="whv/327_bwk.svg" width="50px"> | | |
+| 327 | Nord | Blau-Weiß Köln | <img src="whv/327_kthc.svg" width="50px"> | | |
 | 267 | Nord | Klipper THC Hamburg | <img src="hhv/267_klipper.svg" width="50px"> | | |
 | 218 | Nord | ETUF Essen | <img src="whv/218_etuf.svg" width="50px"> | | |
-| 203 | Nord | DSD Düsseldorf | <img src="whv/203_dsdd.svg" width="50px"> | | |
+| 203 | Nord | DSD Düsseldorf | <img src="whv/203_dsd.svg" width="50px"> | | |
 | 427 | Süd | Rüsselsheimer RK | <img src="hes/427_rrk.svg" width="50px"> | | |
 | 151 | Süd | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
 | 357 | Süd | TSV Mannheim | <img src="hbw/357_tsvm.svg" width="50px"> | | |
