@@ -52,7 +52,7 @@
 | 378 | Süd | Münchner SC | <img src="bay/378_msc.svg" width="50px"> | | |
 | 349 | Süd | HC Ludwigsburg | <img src="hbw/349_hcl.svg" width="50px"> | | |
 | 233 | Süd | TG Frankenthal | <img src="hbw/233_tgf.svg" width="50px"> | | |
-| 453 | Süd | HTC Stuttgarter Kickers | <img src="hbw/453_htcsk.svg" width="50px"> | | |
+| 453 | Süd | HTC Stuttgarter Kickers | <img src="hbw/453_htc.svg" width="50px"> | | |
 | 151 | Süd | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
 | 156 | Süd | TuS Lichterfelde | <img src="ber/156_tusli.svg" width="50px"> | | |
 | 153 | Süd | TC Blau-Weiß Berlin | <img src="ber/153_tcbw.svg" width="50px"> | | |
@@ -74,7 +74,7 @@
 | 203 | Nord | DSD Düsseldorf | <img src="whv/203_dsd.svg" width="50px"> | | |
 | 427 | Süd | Rüsselsheimer RK | <img src="hes/427_rrk.svg" width="50px"> | | |
 | 151 | Süd | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
-| 357 | Süd | TSV Mannheim | <img src="hbw/357_tsvm.svg" width="50px"> | | |
+| 357 | Süd | TSV Mannheim | <img src="hbw/357_tsvmh.svg" width="50px"> | | |
 | 398 | Süd | Nürnberger HTC | <img src="bay/398_nhtc.svg" width="50px"> | | |
 | 159 | Süd | Bietigheimer HTC | <img src="hbw/159_bhtc.svg" width="50px"> | | |
 | 551 | Süd | Feudenheimer HC | <img src="hbw/551_fhc.svg" width="50px"> | | |
