@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
 <svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="HBW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="358-MHC">
+            <path d="M86.5291978,170.079996 C40.458399,170.079996 2.97655993,132.59733 2.97655993,86.5265312 C2.97655993,40.4578657 40.458399,2.97759993 86.5291978,2.97759993 C132.598397,2.97759993 170.078662,40.4578657 170.078662,86.5265312 C170.078662,132.59733 132.598397,170.079996 86.5291978,170.079996 Z" id="Background-white" fill="#FFFFFF" fill-rule="nonzero"></path>
             <g id="Background" transform="translate(0.000000, 0.000000)" fill-rule="nonzero">
                 <path d="M37.3843991,28.14 C22.8379994,50.7478661 25.4573327,81.1951987 45.2401322,100.979598 C65.025065,120.763998 95.4718643,123.382664 118.080264,108.835998 L37.3843991,28.14" id="background-blue" fill="#1959A6" transform="translate(73.109713, 73.110793) scale(1, -1) translate(-73.109713, -73.110793) "></path>
                 <path d="M135.671997,144.921273 C150.21733,122.313407 147.599996,91.8655408 127.81453,72.0816747 C108.030664,52.2962085 77.5838647,49.6800752 54.976532,64.2254082 L135.671997,144.921273" id="backgroud-red" fill="#D91920" transform="translate(99.946736, 99.950636) scale(1, -1) translate(-99.946736, -99.950636) "></path>
