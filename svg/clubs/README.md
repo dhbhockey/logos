@@ -2,6 +2,7 @@
 
 ## 1. Bundesliga
 ### Herren
+#### Feld
 | ID | Staffel | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
 |:-:|---|---|---|---|---|---|
 | 326 | Staffel A | RWK | Rot-Weiß Köln | <img src="whv/326_rwk.svg" width="50px"> | | |
@@ -17,7 +18,36 @@
 | 398 | Staffel B | NHTC | Nürnberger HTC | <img src="bay/398_nhtc.svg" width="50px"> | | |
 | 204 | Staffel B | DHC | Düsseldorfer HC | <img src="whv/204_dhc.svg" width="50px"> | | |
 
+#### Halle
+| ID | Staffel | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
+|:-:|---|---|---|---|---|---|
+| 256 | Nord | CADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
+| 278 | Nord | HPC | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="50px"> | | |
+| 263 | Nord | HTHC | Harvestehuder THC | <img src="hhv/263_hthc.svg" width="50px"> | | |
+| 266 | Nord | UHC | UHC Hamburg | <img src="hhv/266_uhc.svg" width="50px"> | | |
+| 289 | Nord | DTV | DTV Hannover | <img src="nhv/289_dtvh.svg" width="50px"> | | |
+| 286 | Nord | DHCH | DHC Hannover | <img src="nhv/286_dhch.svg" width="50px"> | | |
+| 149 | Ost  | BHC | Berliner HC | <img src="ber/149_bhc.svg" width="50px"> | | |
+| 151 | Ost  | WESPEN | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
+| 156 | Ost  | TUSLI | TuS Lichterfelde | <img src="ber/156_tusli.svg" width="50px"> | | |
+| 131 | Ost  | MHC | Mariendorfer HC | <img src="ber/131_mhc.svg" width="50px"> | | |
+| 153 | Ost  | TCBW | TC Blau-Weiß Berlin | <img src="ber/153_tcbw.svg" width="50px"> | | |
+| 332 | Ost  | CHC | Cöthener HC 02 | <img src="sac/332_hch.svg" width="50px"> | | |
+| 358 | Süd  | MHC | Mannheimer HC | <img src="hbw/358_mhc.svg" width="50px">| | |
+| 357 | Süd  | TSVMH | TSV Mannheim | <img src="hbw/357_tsvmh.svg" width="50px"> | | |
+| 225 | Süd  | SC80 | SC Frankfurt 1880 | <img src="hes/225_sc80.svg" width="50px"> | | |
+| 233 | Süd  | TGF | TG Frankenthal | <img src="hbw/233_tgf.svg" width="50px"> | | |
+| 378 | Süd  | MSC | Münchner SC | <img src="bay/378_msc.svg" width="50px"> | | |
+| 398 | Süd  | NHTC | Nürnberger HTC | <img src="bay/398_nhtc.svg" width="50px"> | | |
+| 374 | West | HTCU | Uhlenhorst Mühlheim | <img src="whv/374_htcu.svg" width="50px"> | | |
+| 326 | West | RWK | Rot-Weiß Köln | <img src="whv/326_rwk.svg" width="50px"> | | |
+| 333 | West | CHTC | Crefelder HTC | <img src="whv/333_chtc.svg" width="50px"> | | |
+| 327 | West | BWK | Blau-Weiß Köln | <img src="whv/327_kthc.svg" width="50px"> | | |
+| 204 | West | DHC | Düsseldorfer HC | <img src="whv/204_dhc.svg" width="50px"> | | |
+| 391 | West | SWN | Schwarz-Weiß Neuss | <img src="whv/391_swn.svg" width="50px"> | | |
+
 ### Damen
+#### Feld
 | ID | Staffel | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
 |:-:|---|---|---|---|---|---|
 | 204 | Staffel A | DHC | Düsseldorfer HC | <img src="whv/204_dhc.svg" width="50px"> | | |
@@ -33,8 +63,37 @@
 | 276 | Staffel B | GTHGC | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
 | 196 | Staffel B | CR | Club Raffelberg | <img src="whv/196_cr.svg" width="50px"> | | |
 
+#### Halle
+| ID | Staffel | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
+|:-:|---|---|---|---|---|---|
+| 256 | Nord | CADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
+| 263 | Nord | HTHC | Harvestehuder THC | <img src="hhv/263_hthc.svg" width="50px"> | | |
+| 266 | Nord | UHC | UHC Hamburg | <img src="hhv/266_uhc.svg" width="50px"> | | |
+| 276 | Nord | GTHGC | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
+| 168 | Nord | EBS | Eintracht Braunschweig | <img src="nhv/168_eb.svg" width="50px"> | | |
+| 278 | Nord | HPC | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="50px"> | | |
+| 149 | Ost  | BHC | Berliner HC | <img src="ber/149_bhc.svg" width="50px"> | | |
+| 151 | Ost  | WESPEN | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
+| 156 | Ost  | TUSLI | TuS Lichterfelde | <img src="ber/156_tusli.svg" width="50px"> | | |
+| 131 | Ost  | MHC | Mariendorfer HC | <img src="ber/131_mhc.svg" width="50px"> | | |
+| 405 | Ost  | OHC | Osternienburger HC | <img src="sac/405_ohc.svg" width="50px"> | | |
+| 342 | Ost  | ATV | ATV Leipzig | <img src="sac/342_atv.svg" width="50px"> | | |
+| 357 | Süd  | TSVMH | TSV Mannheim | <img src="hbw/357_tsvmh.svg" width="50px"> | | |
+| 378 | Süd  | MSC | Münchner SC | <img src="bay/378_msc.svg" width="50px"> | | |
+| 358 | Süd  | MHC | Mannheimer HC | <img src="hbw/358_mhc.svg" width="50px">| | |
+| 427 | Süd  | RRK | Rüsselsheimer RK | <img src="hes/427_rrk.svg" width="50px"> | | |
+| 159 | Süd  | BHTC | Bietigheimer HTC | <img src="hbw/159_bhtc.svg" width="50px"> | | |
+| 551 | Süd  | FHC | Feudenheimer HC | <img src="hbw/551_fhc.svg" width="50px"> | | |
+| 204 | West | DHC | Düsseldorfer HC | <img src="whv/204_dhc.svg" width="50px"> | | |
+| 374 | West | HTCU | Uhlenhorst Mühlheim | <img src="whv/374_htcu.svg" width="50px"> | | |
+| 326 | West | RWK | Rot-Weiß Köln | <img src="whv/326_rwk.svg" width="50px"> | | |
+| 333 | West | CHTC | Crefelder HTC | <img src="whv/333_chtc.svg" width="50px"> | | |
+| 162 | West | BTHV | Bonner THV | <img src="whv/162_bthv.svg" width="50px"> | | |
+| 327 | West | BWK | Blau-Weiß Köln | <img src="whv/327_kthc.svg" width="50px"> | | |
+
 ## 2. Bundesliga
 ### Herren
+#### Feld
 | ID | Gruppe | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
 |:-:|---|---|---|---|---|---|
 | 276 | Nord | GTHGC | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
@@ -49,15 +108,43 @@
 | 286 | Nord | DHCH | DHC Hannover | <img src="nhv/286_dhch.svg" width="50px"> | | |
 | 274 | Nord | THKR | THK Rissen | <img src="hhv/274_thkr.svg" width="50px"> | | |
 | 162 | Nord | BTHV | Bonner THV | <img src="whv/162_bthv.svg" width="50px"> | | |
-| 378 | Süd | MSC | Münchner SC | <img src="bay/378_msc.svg" width="50px"> | | |
-| 349 | Süd | HCL | HC Ludwigsburg | <img src="hbw/349_hcl.svg" width="50px"> | | |
-| 233 | Süd | TGF | TG Frankenthal | <img src="hbw/233_tgf.svg" width="50px"> | | |
-| 453 | Süd | HTC | HTC Stuttgarter Kickers | <img src="hbw/453_htc.svg" width="50px"> | | |
-| 151 | Süd | WESPEN | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
-| 156 | Süd | TUSLI | TuS Lichterfelde | <img src="ber/156_tusli.svg" width="50px"> | | |
-| 153 | Süd | TCBW | TC Blau-Weiß Berlin | <img src="ber/153_tcbw.svg" width="50px"> | | |
-| 396 | Süd | HGN | HG Nürnberg | <img src="bay/396_hgn.svg" width="50px"> | | |
-| 155 | Süd | BSC | Berliner SC | <img src="ber/155_bsc.svg" width="50px"> | | |
+| 378 | Süd  | MSC | Münchner SC | <img src="bay/378_msc.svg" width="50px"> | | |
+| 349 | Süd  | HCL | HC Ludwigsburg | <img src="hbw/349_hcl.svg" width="50px"> | | |
+| 233 | Süd  | TGF | TG Frankenthal | <img src="hbw/233_tgf.svg" width="50px"> | | |
+| 453 | Süd  | HTC | HTC Stuttgarter Kickers | <img src="hbw/453_htc.svg" width="50px"> | | |
+| 151 | Süd  | WESPEN | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
+| 156 | Süd  | TUSLI | TuS Lichterfelde | <img src="ber/156_tusli.svg" width="50px"> | | |
+| 153 | Süd  | TCBW | TC Blau-Weiß Berlin | <img src="ber/153_tcbw.svg" width="50px"> | | |
+| 396 | Süd  | HGN | HG Nürnberg | <img src="bay/396_hgn.svg" width="50px"> | | |
+| 155 | Süd  | BSC | Berliner SC | <img src="ber/155_bsc.svg" width="50px"> | | |
+
+#### Halle
+| ID | Gruppe | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
+|:-:|---|---|---|---|---|---|
+| 276 | Nord | GTHGC | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
+| 267 | Nord | KLIPPER | Klipper THC Hamburg | <img src="hhv/267_klipper.svg" width="50px"> | | |
+| 479 | Nord | TTK | TTK Sachsenwald | <img src="hhv/479_ttk.svg" width="50px"> | | |
+| 274 | Nord | THKR | THK Rissen | <img src="hhv/274_thkr.svg" width="50px"> | | |
+| 166 | Nord | BTHC | Braunschweiger THC | <img src="nhv/166_bthc.svg" width="50px"> | | |
+| 260 | Nord | RHTC | Rahlstedter HTC | <img src="hhv/260_rhtc.svg" width="50px"> | | |
+| 405 | Ost  | OHC | Osternienburger HC | <img src="sac/405_ohc.svg" width="50px"> | | |
+| 155 | Ost  | BSC | Berliner SC | <img src="ber/155_bsc.svg" width="50px"> | | |
+| 253 | Ost  | TSVL | TSV Leuna | <img src="saa/253_tsvl.svg" width="50px"> | | |
+| 127 | Ost  | RPB | SG Rotation Prenzlauer Berg | <img src="ber/127_sgr.svg" width="50px"> | | |
+| 127 | Ost  | HCR | HC Roseneck | <img src="ber/582_hcr.svg" width="50px"> | | |
+| 127 | Ost  | SHTC | Spandauer HTC | <img src="ber/145_shtc.svg" width="50px"> | | |
+| 349 | Süd  | HCL | HC Ludwigsburg | <img src="hbw/349_hcl.svg" width="50px"> | | |
+| 396 | Süd  | HGN | HG Nürnberg | <img src="bay/396_hgn.svg" width="50px"> | | |
+| 453 | Süd  | HTC | HTC Stuttgarter Kickers | <img src="hbw/453_htc.svg" width="50px"> | | |
+| 379 | Süd  | TUS | TuS C Obermenzing | <img src="bay/379_tus.svg" width="50px"> | | |
+| 427 | Süd  | RRK | Rüsselsheimer RK | <img src="hes/427_rrk.svg" width="50px"> | | |
+| 476 | Süd  | WTHC | Wiesbadener THC | <img src="hes/476_wthc.svg" width="50px"> | | |
+| 203 | West | DSD | DSD Düsseldorf | <img src="whv/203_dsd.svg" width="50px"> | | |
+| 371 | West | GHTC | Gladbacher HTC | <img src="whv/371_ghtc.svg" width="50px"> | | |
+| 325 | West | SWK | Schwarz-Weiß Köln | <img src="whv/325_swk.svg" width="50px"> | | |
+| 399 | West | OHTC | Oberhausener THC | <img src="whv/399_othc.svg" width="50px"> | | |
+| 220 | West | HCE | HC Essen 99 | <img src="whv/220_hce.svg" width="50px"> | | |
+| 375 | West | KHTC | Kahlenberger HTC | <img src="whv/375_khtc.svg" width="50px"> | | |
 
 ### Damen
 | ID | Gruppe | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
@@ -86,9 +173,9 @@
 
 ## Regionalliga
 ### Herren
-| ID | Gruppe | Name | Logo | Logo 2 | Logo 3 |
-|:-:|---|---|---|---|---|
-| 166 | Nord | Braunschweiger THC | <img src="nhv/166_bthc.svg" width="50px"> | | |
+| ID | Gruppe | Abbreviation| Name | Logo | Logo 2 | Logo 3 |
+|:-:|---|---|---|---|---|---|
+| 166 | Nord | BTHC | Braunschweiger THC | <img src="nhv/166_bthc.svg" width="50px"> | | |
 | 169 | Nord | Club zur Vahr | <img src="bre/169_czv.svg" width="50px"> | | |
 | 258 | Nord | TG Heimfeld | <img src="nhv/258_tgh.svg" width="50px"> | | |
 | 260 | Nord | Rahlstedter HTC | <img src="hhv/260_rhtc.svg" width="50px"> | | |
