@@ -82,7 +82,7 @@
 | 153 | Süd | TCBW | TC Blau-Weiß Berlin | <img src="ber/153_tcbw.svg" width="50px"> | | |
 | 379 | Süd | TUS | TuS C Obermenzing | <img src="bay/379_tus.svg" width="50px"> | | |
 | 396 | Süd | HGN | HG Nürnberg | <img src="bay/396_hgn.svg" width="50px"> | | |
-| 342 | Süd | ATV | ATV Leipzig | <img src="mhv/342_atv.svg" width="50px"> | | |
+| 342 | Süd | ATV | ATV Leipzig | <img src="sac/342_atv.svg" width="50px"> | | |
 
 ## Regionalliga
 ### Herren
