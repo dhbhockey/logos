@@ -8,7 +8,7 @@
 | 326 | Staffel A | RWK | Rot-Weiß Köln | <img src="whv/326_rwk.svg" width="50px"> | | |
 | 149 | Staffel A | BHC | Berliner HC | <img src="ber/149_bhc.svg" width="50px"> | | |
 | 278 | Staffel A | HPC | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="50px"> | | |
-| 256 | Staffel A | CADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
+| 256 | Staffel A | DCADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
 | 357 | Staffel A | TSVMH | TSV Mannheim | <img src="hbw/357_tsvmh.svg" width="50px"> | | |
 | 225 | Staffel A | SC80 | SC Frankfurt 1880 | <img src="hes/225_sc80.svg" width="50px"> | | |
 | 374 | Staffel B | HTCU | Uhlenhorst Mühlheim | <img src="whv/374_htcu.svg" width="50px"> | | |
@@ -21,7 +21,7 @@
 #### Halle
 | ID | Staffel | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
 |:-:|---|---|---|---|---|---|
-| 256 | Nord | CADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
+| 256 | Nord | DCADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
 | 278 | Nord | HPC | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="50px"> | | |
 | 263 | Nord | HTHC | Harvestehuder THC | <img src="hhv/263_hthc.svg" width="50px"> | | |
 | 266 | Nord | UHC | UHC Hamburg | <img src="hhv/266_uhc.svg" width="50px"> | | |
@@ -57,7 +57,7 @@
 | 378 | Staffel A | MSC | Münchner SC | <img src="bay/378_msc.svg" width="50px"> | | |
 | 156 | Staffel A | TUSLI | TuS Lichterfelde | <img src="ber/156_tusli.svg" width="50px"> | | |
 | 358 | Staffel B | MHC | Mannheimer HC | <img src="hbw/358_mhc.svg" width="50px">| | |
-| 256 | Staffel B | CADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
+| 256 | Staffel B | DCADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
 | 263 | Staffel B | HTHC | Harvestehuder THC | <img src="hhv/263_hthc.svg" width="50px"> | | | 
 | 149 | Staffel B | BHC | Berliner HC | <img src="ber/149_bhc.svg" width="50px"> | | |
 | 276 | Staffel B | GTHGC | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
@@ -66,7 +66,7 @@
 #### Halle
 | ID | Staffel | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
 |:-:|---|---|---|---|---|---|
-| 256 | Nord | CADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
+| 256 | Nord | DCADA | Club an der Alster | <img src="hhv/256_dcada.svg" width="50px"> | | |
 | 263 | Nord | HTHC | Harvestehuder THC | <img src="hhv/263_hthc.svg" width="50px"> | | |
 | 266 | Nord | UHC | UHC Hamburg | <img src="hhv/266_uhc.svg" width="50px"> | | |
 | 276 | Nord | GTHGC | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
