@@ -131,8 +131,8 @@
 | 155 | Ost  | BSC | Berliner SC | <img src="ber/155_bsc.svg" width="50px"> | | |
 | 253 | Ost  | TSVL | TSV Leuna | <img src="saa/253_tsvl.svg" width="50px"> | | |
 | 127 | Ost  | RPB | SG Rotation Prenzlauer Berg | <img src="ber/127_sgr.svg" width="50px"> | | |
-| 127 | Ost  | HCR | HC Roseneck | <img src="ber/582_hcr.svg" width="50px"> | | |
-| 127 | Ost  | SHTC | Spandauer HTC | <img src="ber/145_shtc.svg" width="50px"> | | |
+| 582 | Ost  | HCR | HC Roseneck | <img src="ber/582_hcr.svg" width="50px"> | | |
+| 145 | Ost  | SHTC | Spandauer HTC | <img src="ber/145_shtc.svg" width="50px"> | | |
 | 349 | Süd  | HCL | HC Ludwigsburg | <img src="hbw/349_hcl.svg" width="50px"> | | |
 | 396 | Süd  | HGN | HG Nürnberg | <img src="bay/396_hgn.svg" width="50px"> | | |
 | 453 | Süd  | HTC | HTC Stuttgarter Kickers | <img src="hbw/453_htc.svg" width="50px"> | | |
