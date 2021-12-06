@@ -70,7 +70,7 @@
 | 263 | Nord | HTHC | Harvestehuder THC | <img src="hhv/263_hthc.svg" width="50px"> | | |
 | 266 | Nord | UHC | UHC Hamburg | <img src="hhv/266_uhc.svg" width="50px"> | | |
 | 276 | Nord | GTHGC | Großflottbeker THGC | <img src="hhv/276_gthgc.svg" width="50px"> | | |
-| 168 | Nord | EBS | Eintracht Braunschweig | <img src="nhv/168_eb.svg" width="50px"> | | |
+| 168 | Nord | EBS | Eintracht Braunschweig | <img src="nhv/168_ebs.svg" width="50px"> | | |
 | 278 | Nord | HPC | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="50px"> | | |
 | 149 | Ost  | BHC | Berliner HC | <img src="ber/149_bhc.svg" width="50px"> | | |
 | 151 | Ost  | WESPEN | Zehlendorfer Wespen | <img src="ber/151_zw.svg" width="50px"> | | |
@@ -150,7 +150,7 @@
 | ID | Gruppe | Abbreviation | Name | Logo | Logo 2 | Logo 3 |
 |:-:|---|---|---|---|---|---|
 | 170 | Nord | BHC | Bremer HC | <img src="bre/170_bhc.svg" width="50px"> | | |
-| 168 | Nord | EBS | Eintracht Braunschweig | <img src="nhv/168_eb.svg" width="50px"> | | |
+| 168 | Nord | EBS | Eintracht Braunschweig | <img src="nhv/168_ebs.svg" width="50px"> | | |
 | 333 | Nord | CHTC | Crefelder HTC | <img src="whv/333_chtc.svg" width="50px"> | | |
 | 162 | Nord | BTHV | Bonner THV | <img src="whv/162_bthv.svg" width="50px"> | | |
 | 278 | Nord | HPC | Hamburger Polo Club | <img src="hhv/278_hpc.svg" width="50px"> | | |
