@@ -26,7 +26,7 @@
 | 359 | VFL | VFL Marburg | | | |
 | 402 | ORV | Offenbacher RV | | | |
 | 426 | SGKR | Ski Rotenburg | | | |
-| 427 | RRK | Rüsselsheimer RK | | | |
+| 427 | RRK | Rüsselsheimer RK | <img src="/svg/clubs/hes/427_rrk.svg" height="25px" /> | | |
 | 475 | DHC | DHC Wiesbaden | | | |
 | 476 | WTHC | Wiesbadener THC | <img src="/svg/clubs/hes/476_wthc.svg" height="25px" /> | | |
 | 532 | RSC | RSC Wiesbaden | | | |
