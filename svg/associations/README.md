@@ -25,15 +25,15 @@
 ## County Associations
 | ID | Name | Logo | Alternative | White |
 |:-:|---|---|---|---|
-| HBW | Baden-Württemberger HV | | | |
+| HBW | Baden-Württemberger HV <span style="color:red; font-weight: bold;">(TBC)</span> | <img src="/svg/associations/hbw.svg" height="25px" /> | | |
 | BAY | Bayrischer HV | <img src="/svg/associations/bay_r.svg" height="25px" /> | <img src="/svg/associations/bay.svg" height="25px" /> | |
 | BHV | Berliner HV | <img src="/svg/associations/ber.svg" height="25px" /> | | |
 | BRE | Bremer HV | | | |
-| HHV | Hamburger HV | | | |
+| HHV | Hamburger HV | <img src="/svg/associations/hhv.svg" height="25px" /> | | | |
 | HES | Hessischer HV | <img src="/svg/associations/hes.svg" height="25px" /> | | | |
 | MVP | Mecklenburgischer HV | | | |
 | NHV | Niedersächsischer HV | <img src="/svg/associations/nhv.svg" height="25px" /> | | | |
-| RPS | HV Rheinland-Pfalz/Saar | | | |
+| RPS | HV Rheinland-Pfalz/Saar <span style="color:red; font-weight: bold;">(TBC)</span> | <img src="/svg/associations/rps.svg" height="25px" /> | | |
 | SAC | Sächsischer HV | <img src="/svg/associations/sac.svg" height="25px" /> | | |
 | SAA | HV Sachsen-Anhalt | | | |
 | SHH | Schleswig-Holsteiner HV | <img src="/svg/associations/shh.svg" height="25px" /> | | |
