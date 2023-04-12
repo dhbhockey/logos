@@ -5,7 +5,7 @@
 | 108 | Kiebitz im BSV | | | |
 | 176 | TSV Buchholz | <img src="/svg/clubs/hhv/176_tsvb.svg" height="25px" /> | | |
 | 209 | TSV Elstorf | | | |
-| 256 | Club an der Alster | | | |
+| 256 | Club an der Alster | <img src="/svg/clubs/hhv/256_dcada.svg" height="25px" /> | | |
 | 257 | TSG Bergedorf | | | |
 | 258 | TG Heimfeld | | | |
 | 259 | Marienthaler THC | | | |
@@ -19,12 +19,12 @@
 | 270 | Hamburger SV | <img src="/svg/clubs/hhv/270_hsv.svg" height="25px" /> | | |
 | 271 | SC Victoria Hamburg | <img src="/svg/clubs/hhv/271_vh.svg" height="25px" /> | | |
 | 272 | Eimsbütteler TV | | | |
-| 274 | THK Rissen | | | |
+| 274 | THK Rissen | <img src="/svg/clubs/hhv/274_thkr.svg" height="25px" /> | | |
 | 275 | SV Blankenese | | | |
-| 276 | Großflottbeker THGC | | | |
+| 276 | Großflottbeker THGC | <img src="/svg/clubs/hhv/276_gthgc.svg" height="25px" /> | | |
 | 277 | THC Altona-Bahrenfeld | | | |
-| 278 | Hamburger Polo Club | | | |
+| 278 | Hamburger Polo Club | <img src="/svg/clubs/hhv/278_hpc.svg" height="25px" />| | |
 | 351 | HC Lüneburg | | | |
-| 479 | TTK Sachsenwald | | | |
+| 479 | TTK Sachsenwald | <img src="/svg/clubs/hhv/479_ttk.svg" height="25px" /> | | |
 | 512 | Hockey Ballboa | | | |
 | 536 | HC St. Pauli | | | |
