@@ -8,6 +8,7 @@
 | 2012 | London 2012 | <img src="/svg/events/olympics/2012/2012_summer_olympics_logo.svg" height="25px" /> | | |
 | 2016 | Rio 2016 | <img src="/svg/events/olympics/2016/2016_summer_olympics_logo.svg" height="25px" /> | | |
 | 2020 | Tokyo 2020 | <img src="/svg/events/olympics/2020/2020_summer_olympics_logo.svg" height="25px" /> | | <img src="/svg/events/olympics/2020/mission_tokio.svg" height="25px" /> |
+| 2024 | Paris 2024 | <img src="/svg/events/olympics/2024/2024_summer_olympics_logo.svg" height="25px" /> | | |
 
 ### Qualifiers
 | Year | Name | Logo | Alternative | White |
