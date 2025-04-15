@@ -22,7 +22,7 @@
 | 274 | THK Rissen | <img src="/svg/clubs/hhv/274_thkr.svg" height="25px" /> | | |
 | 275 | SV Blankenese | | | |
 | 276 | Großflottbeker THGC | <img src="/svg/clubs/hhv/276_gthgc.svg" height="25px" /> | | |
-| 277 | THC Altona-Bahrenfeld | | | |
+| 277 | THC Altona-Bahrenfeld | <img src="/svg/clubs/hhv/277_thca-b.svg" height="25px" /> | | |
 | 278 | Hamburger Polo Club | <img src="/svg/clubs/hhv/278_hpc.svg" height="25px" />| | |
 | 351 | HC Lüneburg | | | |
 | 479 | TTK Sachsenwald | <img src="/svg/clubs/hhv/479_ttk.svg" height="25px" /> | | |
